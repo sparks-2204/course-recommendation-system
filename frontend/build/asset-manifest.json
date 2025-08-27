@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef38caba.css",
+    "main.js": "/static/js/main.94feed35.js",
+    "index.html": "/index.html",
+    "main.ef38caba.css.map": "/static/css/main.ef38caba.css.map",
+    "main.94feed35.js.map": "/static/js/main.94feed35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef38caba.css",
+    "static/js/main.94feed35.js"
+  ]
+}

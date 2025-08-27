@@ -6,8 +6,8 @@ node_modules/
 # Testing
 /coverage
 
-# Production build
-/build
+# # Production build
+# /build
 
 # Environment variables
 .env
